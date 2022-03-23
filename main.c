@@ -9,11 +9,14 @@
 #include "ex9.h"
 #include "ex10.h"
 #include "ex11.h"
+#include "ex12.h"
+#include "ex13.h"
+
 
 
 void main(void) { 
 
-      ex11();
+      ex13();
       
 
 
